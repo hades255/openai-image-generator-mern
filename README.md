@@ -48,8 +48,8 @@ Before you begin, ensure you have the following prerequisites:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/ai-image-generation.git
-cd ai-image-generation
+git clone https://github.com/hades255/openai-image-generator-mern.git
+cd openai-image-generator-mern
 
 # Install server dependencies
 cd server
@@ -69,5 +69,14 @@ npm start
 # In a separate terminal window, start the React development server for the client
 cd ../client
 npm start
+```
 
-
+__Developed by__
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗███████╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████║███████║██║  ██║███████╗███████╗
+██╔══██║██╔══██║██║  ██║██╔════╝╚════██║
+██║  ██║██║  ██║██████╔╝███████╗███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝ 
+```
